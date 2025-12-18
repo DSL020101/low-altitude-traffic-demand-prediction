@@ -1,0 +1,28 @@
+# 低空交通需求分析与预测 文献综述
+
+## 一、status quo of domestic research
+
+- [1] 王炜.城市交通规划理论与方法 [M]. 北京：人民交通出版社，1986. 
+- [2] 陆化普.交通规划理论与方法 [M]. 北京：清华大学出版社，1995.
+- [3] 杨晓光.城市轨道交通客流预测方法研究 [J]. 中国公路学报，2002, 15 (3): 82-86.
+- [4] 龙奋杰 基于公路大数据的黔中城市群一体化研究[J]. 浙江大学学报(工学版)， 2019, 53(2): 307-314. [知网链接]（https://kns.cnki.net/kcms2/article/abstract?v=2t0iREynv6mk88G_e8svLErki0QljA1-1ymQY8N9uFhbZGbLDFTHeIY23B8ZftVhZUCpgy_CDrJfFbsaZSHsNLac5GZV2-GcCXPtGAHVs4vVqj6xT10NidMYmPZN8TxrCOK5PSmi3wYRSyxj5gsswCklrrwuS5zUODgSIh9t68_EDLNm-XLioA==&uniplatform=NZKPT&language=CHS）
+- [5] 交通分布预测重力模型的改进[D]. 石家庄： 石家庄铁道大学， 2018. [知网链接]（https://kns.cnki.net/kcms2/article/abstract?v=2t0iREynv6lJeqNKi5cnOa6tQLIRpSVdut_ihiN5io_rzWF7bTcz6eWWrnUppYPqD4uTyT_X0ld1a7jjYpOlASmrnbNJR_Lz9bIAclLRagDSqJQL8CPOFRBAxen3aRCR3_I0exRrwx2JjqmD5Fsyt_pWKfpzEJxSnpuswOjsKC_AonjcyEClSzgfuakCsu-d&uniplatform=NZKPT&language=CHS）
+- [6] 一种改进的重力模型标定方法[J]. 交通运输工程学报， 2003(4): 102-104.[知网链接]（https://kns.cnki.net/kcms2/article/abstract?v=2t0iREynv6nU9HjEnlXM_LeYGnJMxS8pIC8jxgicdAmF-YBWdLDRNrZD7KpHekDiDRN4tvrCs6zbAEjbhpA2OmpcavkG5nv9vdf3VY0dSJWhuLQnUYAhGDiq6CgwoSOpg6lCa2NzOVAx7x26bE_Pggeb31PXXW0ypWxbplMZqeQxAE4IG0_uOA==&uniplatform=NZKPT&language=CHS）
+- [7] 戴特奇， 刘毅. 重力模型系数时间变化路径分析——以中国城际铁路旅客交流为例[J]. 地理科学进展， 2008, 27(4): 110-116. [知网链接]（https://kns.cnki.net/kcms2/article/abstract?v=2t0iREynv6nxzMBNDD6mINTYenu05xSulBEl7rQHV9fJc2TOdGsbVXJj2qmsxxqYnV1_ftADj2RzoFE1TFADUUIwxoxA6YNU29-o6KwXGssYJt6WguPASQ-YfFbH1jSsgScDn46PUfG9OfllK7UI1ur-iW8srpXqpm6T44flYzIDRrJVUAyCmQ==&uniplatform=NZKPT&language=CHS）
+- [8] 连云港智源申请基于重力模型的多时间尺度电动汽车负荷预测专利[P]. 中国专利， CN 119761009 A， 2025. [知网链接](https://www.163.com/dy/article/JSHV2AI00519QIKK.html)
+- [9] 盛志前， 吴子啸. 基于通勤大数据的出行空间分布模型测评与改进[J]. 城市交通， 2023(1): 69-73，107.  [知网链接](https://doi.org/10.13813/j.cn11-5141/u.2023.0108)
+- [10] 周溪召.城市群城际交通流预测的改进重力模型 [J]. 交通运输工程学报，2013, 13 (2): 86-92.
+- [11] 陈艳艳.考虑限行政策的交通重力模型改进与应用 [J]. 北京工业大学学报，2016, 42 (5): 678-684.
+- [12] 李瑞敏.基于浮动车数据的交通重力模型参数标定 [J]. 清华大学学报 (自然科学版), 2018, 58 (7): 612-618.
+- [13] 朱顺应.数字孪生技术在交通重力模型中的应用 [J]. 中国公路学报，2020, 33 (10): 1-10.
+- [14] 吴娇蓉.多源数据融合的公交客流重力模型预测 [J]. 同济大学学报 (自然科学版), 2022, 50 (3): 389-396.
+- [15] 王昊.基于迁移学习的小样本地区交通重力模型 [J]. 交通运输系统工程与信息，2023, 23 (2): 156-163.
+
+## 二、国外研究现状
+- [1]Zipf G K. Human Behavior and the Principle of Least Effort[M]. Cambridge: Addison-Wesley, 1955.
+- [2] Smith J, Jones A. A New Method for Calibrating Gravity Models in Urban Transportation[J]. Transportation Research Part B, 78: 234-251.
+- [3]Oh-Hyun Kwon, Inho Hong, Woo-Sung Jung, Hang-Hyun Jo. Multiple gravity laws for human mobility within cities[J]. EPJ Data Science, 2023, 12: 38.[链接]（https://kns.cnki.net/kcms2/article/abstract?v=2t0iREynv6mxRt64AEOQVQGTG3_8y6ft8u2KZ6CxG_JjSNcQOAIbhKviPEgluQuUsAMuJRQMT5s4rfzigfRUKNBemIXgAcVYcOWmvIzMYL9wRmtjnQ4NrevfRuBSqDsiMtU0vEV_ZOyahbqyOFI7kRIRc_UVU5KOBMg4X4dOBNhEJJMIBME2mf4gLH9sITnt-zPZUhDxCMOUwTS665fNIg==&uniplatform=NZKPT&language=CHS）
+- [4]Louis A Merlin. A new method using medians to calibrate single-parameter spatial interaction models[J]. Journal of Transport and Land Use, 2020, 13(1): 1-18.[链接]（https://kns.cnki.net/kcms2/article/abstract?v=2t0iREynv6mffwj7ICKFST-IuZBGgRe_SsAIbTe_l6vxe-VveRhmoaaJwoK8IuUOLmunVxB-vIwvt997bIGdOpm0t8QJUlt0CzCoCG8JwK4hVNvCcBLIjvT_3HWG0caUBKFsasHGYOwmLwEVJC2w5JvP-Y5rOofbstzXWGRp-13CZ4Q2IYJy7FmgDPP-hDwtWKjQQApCJx6GPw4knMbirg==&uniplatform=NZKPT&language=CHS)
+- [5]Wilson, A. G. (1967). A statistical theory of spatial distribution models. Transportation Research, 1(3), 253–269.[链接](https://www.sciencedirect.com/science/article/abs/pii/004116476790038X)
+- [6]Huff, D. L. (1963). A probabilistic analysis of shopping center trade areas. Land Economics, 39(1), 81–90.[链接](https://www.jstor.org/stable/3145921?seq=1)
+- [7]Yang, X., & Wang, H. (2021). A deep gravity model for mobility flows generation. IEEE Transactions on Intelligent Transportation Systems, 22(12), 7750–7760.[链接](https://ieeexplore.ieee.org/abstract/document/9520420)
