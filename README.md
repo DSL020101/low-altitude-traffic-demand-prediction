@@ -10,7 +10,7 @@ We List some papers from CNKI,Web of Science and Other literature websites.
 - [Foreign research-related literature](#Foreign-research-related-literature)
  - [](#)
 
-- [Safety Reinforcement Learning](#Safety-Reinforcement-Learning)
+
 
 
 ## Domestic research-related literature
@@ -22,8 +22,6 @@ We List some papers from CNKI,Web of Science and Other literature websites.
 - [6] 刘志华等.2025.《城市居民低空出行意愿的影响因素与提升策略》[知网链接]（https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2025&filename=DAJJ202507009&uniplatform=OVERSEA&v=doJTKLiimFjUFEJNayybsUN1qHyQb8ZUXcGUzV0Nnk9ios6dr0wgF7KnoAaInxKv）
 - [7] 任新惠等.2022.《城市物流无人机低空空域交通量预测》[知网链接]（https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=JTJS202201012&uniplatform=OVERSEA&v=6Egjll24qAEdE1Y3pG8kjbLkap02aPOoD0pN0TGURqlMKtvQYf0Z-hPlOnt68OR1）
 - [8] 吴志强等.2021.《城市按需空中交通的综合网络设计与需求预测》[知网链接]（https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=GOCH202104012&uniplatform=OVERSEA&v=Jh2h5KsvGxbssbKmG0GhIUeKQ4sqRdjBAe2PPydHhIXliNxO4SeBD95xW_Hg87Oj）
-
-
 
 
 
@@ -45,7 +43,24 @@ We List some papers from CNKI,Web of Science and Other literature websites.
 
 
 
+### Overview of Foreign Research
+The prediction of low-altitude traffic demand is a critical component in the development and management of urban airspace, especially with the increasing deployment of UAVs and urban air mobility solutions. Recent literature emphasizes the importance of accurate forecasting models to facilitate efficient airspace utilization and safety management.
 
+Wang et al. [1] contribute to this domain by proposing a proactive deployment framework for UAV-assisted wireless networks, where demand prediction plays a vital role in optimizing UAV locations and resource provisioning. Their approach incorporates a learning-based discerning module to accelerate the optimization process, highlighting the integration of predictive analytics with deployment strategies.
+
+Similarly, the comprehensive survey on low-altitude wireless networks underscores the significance of traffic flow prediction in managing UAV operations [5]. This work discusses the challenges associated with forecasting UAV demand and emphasizes the need for models that can adapt to dynamic urban environments. The survey also points out that traffic demand prediction is essential for balancing airspace capacity and ensuring smooth traffic flow, especially in densely populated areas.
+
+Forecasting urban logistics drone traffic is another focal point, with studies demonstrating the importance of demand estimation for parcel delivery services [3]. These models aim to predict traffic volume based on urban logistics patterns, which is crucial for planning infrastructure and operational strategies. The integration of such demand forecasts into traffic management systems can help mitigate congestion and improve service efficiency.
+
+Advancements in air traffic management systems, such as hybrid AI-based 4D trajectory management, further illustrate efforts to balance traffic demand with airspace capacity [4]. These systems utilize predictive models to manage dense low-altitude traffic, ensuring safety and efficiency. The development of such intelligent systems underscores the role of demand prediction in enabling real-time traffic balancing and capacity planning.
+
+The growth of urban air mobility, including air taxis, is expected to significantly increase low-altitude traffic, necessitating robust demand prediction models [7]. Accurate forecasts are vital for planning vertiport locations and traffic control measures, thereby supporting the exponential growth of the market.
+
+Furthermore, demand prediction models are also being developed for specific low-altitude applications, such as capacity modeling in low traffic density scenarios [8]. These models focus on minimal interactions between flights, emphasizing the importance of tailored forecasting approaches for different operational contexts.
+
+In addition, the development of integrated low-altitude airspace management systems, as discussed by the Civil Aviation Administration of China, highlights the strategic importance of demand forecasting in shaping policies and infrastructure development [9]. Accurate demand predictions inform the planning of airspace capacity and regulatory frameworks.
+
+Overall, the literature indicates that low-altitude traffic demand prediction is a multifaceted challenge that involves integrating machine learning, optimization algorithms, and real-time data analytics. These efforts aim to enhance the safety, efficiency, and scalability of low-altitude airspace operations, supporting the burgeoning urban air mobility ecosystem [2], [6], [10], [11].
 
 
 
