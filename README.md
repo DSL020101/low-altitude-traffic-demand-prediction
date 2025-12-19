@@ -34,11 +34,13 @@ We List some papers from CNKI,Web of Science and Other literature websites.
 - [2] Nichakorn Pongsakornsathien;Nour El-Din Safwat;Yibing Xie；Alessandro Gardi;Roberto Sabatini;“Advances in low-altitude airspace management for uncrewed aircraft and advanced air mobility”（https://www.sciencedirect.com/science/article/pii/S0376042125000119）
 - [3]REN Xinhui; WANG Jiaxue;"Forecasting Traffic Volume of Urban Logistics Drones in Low-altitude Airspace"(http://www.jtxa.net/en/article/doi/10.3963/j.jssn.1674-4861.2022.01.012)
 - [4]Yibing Xie; Alessandro Gardi; Man Liang;Roberto Sabatini; "Hybrid AI-based 4D trajectory management system for dense low altitude operations and Urban Air Mobility"(https://www.sciencedirect.com/science/article/pii/S1270963824005534)
-- [5]
-- [6]
-- [7]
-- [8]
-- [9]
+- [5]Jun Wu;Yaoqi Yang;Weijie Yuan;"Low-Altitude Wireless Networks: A Comprehensive Survey "(https://arxiv.org/html/2509.11607v2)
+- [6]Parmial Kopardekar;"Unmanned Aerial System (UAS) Traffic Management (UTM):Enabling Low-Altitude Airspace and UAS Operations "(https://ntrs.nasa.gov/api/citations/20140013436/downloads/20140013436.pdf)
+- [7]"Air taxi growth demands efficient vertiports and traffic control systems"(https://www.aljazeera.com/economy/2024/10/15/air-taxi-growth-demands-efficient-vertiports-and-traffic-control-systems)
+- [8]Ivan Tereshchenko ;"Demand Prediction and Capacity Modelling for Applications in En Route Air Traffic Management"(https://escholarship.org/content/qt8dg2j4fw/qt8dg2j4fw_noSplash_3c2f1f847a1ca708b524a18cc88e44a8.pdf)
+- [9]China IP News;"City Fly is Coming"(https://english.cnipa.gov.cn/art/2025/5/7/art_3090_199522.html)
+- [10]Yatong Wang;Mu Yan;Gang Feng;Shuang Qin;Fengsheng Wei;"Autonomous On-Demand Deployment for UAV Assisted Wireless Networks"(https://ieeexplore.ieee.org/document/10117545)
+- [11]"Making Sense in Low Altitude"( https://www.afcea.org/signal-media/technology/making-sense-low-altitude)
 
 
 
