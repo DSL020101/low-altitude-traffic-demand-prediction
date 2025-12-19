@@ -30,6 +30,15 @@ We List some papers from CNKI,Web of Science and Other literature websites.
 
 
 ## Foreign research-related literature
+- [1] Yatong Wang; Mu Yan; Gang Feng; Shuang Qin; Fengsheng Wei;  "Autonomous On-Demand Deployment for UAV Assisted Wireless Networks",   IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS,  2023.  （https://ieeexplore.ieee.org/document/10117545）
+- [2] Nichakorn Pongsakornsathien;Nour El-Din Safwat;Yibing Xie；Alessandro Gardi;Roberto Sabatini;“Advances in low-altitude airspace management for uncrewed aircraft and advanced air mobility”（https://www.sciencedirect.com/science/article/pii/S0376042125000119）
+- [3]REN Xinhui; WANG Jiaxue;"Forecasting Traffic Volume of Urban Logistics Drones in Low-altitude Airspace"(http://www.jtxa.net/en/article/doi/10.3963/j.jssn.1674-4861.2022.01.012)
+- [4]Yibing Xie; Alessandro Gardi; Man Liang;Roberto Sabatini; "Hybrid AI-based 4D trajectory management system for dense low altitude operations and Urban Air Mobility"(https://www.sciencedirect.com/science/article/pii/S1270963824005534)
+- [5]
+- [6]
+- [7]
+- [8]
+- [9]
 
 
 
